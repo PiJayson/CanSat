@@ -1,0 +1,2 @@
+C:\Users\Dominika\Desktop\SATELITY\V2\Satellite21_V2\dfu-util\dfu-util.exe -a 0 -s 0x08000000:leave -D C:\Users\Dominika\Desktop\SATELITY\V2\Satellite21_V2\build\Satellite21_V2.bin
+ping -n 2 127.0.0.1 >nul
